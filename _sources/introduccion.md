@@ -1,4 +1,4 @@
-# Introducción
+# Información del Proyecto
 
 El presente proyecto se enmarca en el desafío que enfrentan las instituciones de educación superior para anticipar y mitigar el **abandono académico**, un fenómeno que afecta tanto la trayectoria de los estudiantes como la eficiencia del sistema educativo. Con el objetivo de contribuir a la solución de este problema, se desarrollan modelos de **aprendizaje automático supervisado** utilizando el algoritmo de **K-Vecinos Más Cercanos (K-Nearest Neighbors, KNN)** para dos tareas fundamentales:
 
