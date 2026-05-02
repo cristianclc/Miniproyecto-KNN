@@ -1,14 +1,14 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: cl_jbook_ml202530
-author: Cristian Linero, David Marquez
+title: Predicción del Riesgo de Abandono Académico en Estudiantes Universitarios
+author: Cristian Linero & David Marquez
 logo: uninorte.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: force
+  execute_notebooks: off
 
 # Define the name of the latex output file for PDF builds
 latex:
